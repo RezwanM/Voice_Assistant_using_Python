@@ -1,5 +1,5 @@
 # Voice_Assistant_using_Python
-This repo contains a project that serves as a voice assistant which contains handful of pre-built responses. The goal was to create a simple voice assistant similar to Google Assistant, Amazon Alexa, or Apple Siri. Once the project was tested in IPython console, it was converted to an executable file (.exe). The following Python modules were used: \
+This repo contains a project that serves as a voice assistant which contains handful of pre-built responses. The goal was to create a simple voice assistant similar to Google Assistant, Amazon Alexa, or Apple Siri. Once the project was tested in IPython console, it was converted to an executable file (.exe). The following Python modules were used: 
 
 speech_recognition - for recording audio and converting speech to text (using Google's Speech API) \
 gtts - for converting text to audio (using Google's Text to Speech API) \
