@@ -4,5 +4,5 @@ This repo contains a project that serves as a voice assistant which contains han
 speech_recognition - for recording audio and converting speech to text (using Google's Speech API) \
 gtts - for converting text to audio (using Google's Text to Speech API) \
 playsound - for playing the saved MP3 file \
-os - for removing the file when done
+os - for removing the file when done \
 pyinstaller - for creating an .exe file for the voice assistant. Python installation is not required for running the executable.
